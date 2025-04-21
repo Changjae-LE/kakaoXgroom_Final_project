@@ -1,5 +1,7 @@
 # kakaoXgroom_Final_project
 
+
+## 📝 Commit Message Convention
 ---
 
 ### 🔖 타입 리스트
